@@ -1,3 +1,4 @@
+// 出典 https://github.com/kokonokaNO/kyopro_template
 #include <bits/stdc++.h>
 #include <atcoder/all>
 
